@@ -31,11 +31,12 @@ h4{
     width: 15vw;
 }
 .text{
-    background-image: url(/photos/tn2.jpeg);
+    background-image: url(photos/tn2.jpeg);
     background-size: 20%;
-    height: 700vh;
+    height: 800vh;
     background-repeat: no-repeat;
-    width: 1000%;
+    width: 150%;
+    margin-left: -80%;
     position: relative;
     left: 190%;
     bottom: 400px;
@@ -56,6 +57,7 @@ h6{
 }
 body{
     overflow-x: hidden;
+    overflow-y: hidden;
 }
 
 @media only screen and (max-width: 600px){
@@ -93,7 +95,7 @@ body{
             width: 10vw;
         }
         .text{
-            background-image: url(/Images/tn2.jpeg);
+            background-image: url(photos/tn2.jpeg);
             background-size: 20%;
             height: 700vh;
             background-repeat: no-repeat;
