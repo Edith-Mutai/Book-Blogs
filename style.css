@@ -1,0 +1,118 @@
+.Worlds{
+font-size: 1vw;
+margin: 0 25%;
+width: 50%;
+}
+
+h2{
+    font-size: 25px;
+}
+
+h3{
+    font-size: 25px;
+}
+
+h4{
+    font-size: 25px;
+}
+
+.Born-a-Crime{
+    margin-left: -40%;
+    margin-top: -60%;
+}
+                                         
+.worlds-apart{
+    margin-left: 70%;
+    width: 20%;
+}
+
+
+#born{
+    width: 15vw;
+}
+.text{
+    background-image: url(/photos/tn2.jpeg);
+    background-size: 20%;
+    height: 700vh;
+    background-repeat: no-repeat;
+    width: 1000%;
+    position: relative;
+    left: 190%;
+    bottom: 400px;
+    text-decoration: none;
+    color: white;
+    
+    
+    
+    
+    
+}
+h6{
+    font-size: 25px;
+    color: yellow;
+}
+#apart{
+    margin-left: 20%;
+}
+body{
+    overflow-x: hidden;
+}
+
+@media only screen and (max-width: 600px){
+
+    .Worlds{
+        font-size: 3vw;
+        margin: 0 25%;
+        width: 50%;
+        }
+        
+        h2{
+            font-size: 15px;
+        }
+        
+        h3{
+            font-size: 25px;
+        }
+        
+        h4{
+            font-size: 25px;
+        }
+        
+        .Born-a-Crime{
+            margin-left: -40%;
+            margin-top: -60%;
+        }
+        
+        .worlds-apart{
+            margin-left: 70%;
+            width: 20%;
+        }
+        
+        
+        #born{
+            width: 10vw;
+        }
+        .text{
+            background-image: url(/Images/tn2.jpeg);
+            background-size: 20%;
+            height: 700vh;
+            background-repeat: no-repeat;
+            width: 1000%;
+            position: relative;
+            left: 190%;
+            bottom: 400px;
+            text-decoration: none;
+            color: white;
+            
+            
+            
+            
+            
+        }
+        h6{
+            font-size: 25px;
+            color: yellow;
+        }
+        #apart{
+            margin-left: 20%;
+        }}
