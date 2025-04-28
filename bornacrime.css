@@ -15,7 +15,7 @@ display: flex;
 justify-content: space-between;
 align-items: center;
 padding: 1rem 2rem;
-background-color: #ffffff;
+background-color: rgb(247, 247, 221);
 box-shadow: 0 2px 5px rgba(0, 0, 0, 0.05);
 padding-bottom: 20px;
 }
@@ -295,6 +295,18 @@ padding-left: 40px;
     text-align: center;
   }
 
+  .reader-card button{
+    color: white;
+    background-color: rgb(225, 240, 240);
+    text-decoration: none;
+    border: none;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-left: 5px;
+    padding-right: 5px;
+    border-radius: 4px;
+  }
+
   .reader-set{
     display: grid;
     gap: 5%;
@@ -331,7 +343,6 @@ padding-left: 40px;
   
   .reader-github {
     font-size: 0.9rem;
-    color: #333;
   }
   
   @media (max-width: 768px) {
